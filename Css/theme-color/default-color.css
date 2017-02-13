@@ -1,0 +1,40 @@
+.header .navigation .menu ul li.active,
+.header .navigation .menu ul li:hover {color: #3498db;}
+
+.featrues .feature div {
+    border: 2px solid #3498db;
+}
+.about-design article button {
+    background: #3498db;
+    border: 1px solid #3498db;}
+
+.portfolio .list  li.selected,  .portfolio .list  li:hover {
+    color: #3498db;
+}
+.our-service .service-item div:first-child {color: #3498db}
+
+.our-service .service-item a {color: #3498db}
+
+.testimonials .say span {color: #3498db}
+
+.price-table .table-item.active h3 {color: #3498db !important}
+
+.price-table .table-item.active .head {  border-top: 5px solid #3498db;}
+
+.price-table .table-item .head p:before {
+    background: #3498db}
+
+.price-table .table-item .head p span {color: #3498db}
+
+.price-table .table-item .foot button {
+    border: 1px solid #3498db;
+    color: #3498db
+}
+
+.price-table .table-item .foot button.selected {
+    background: #3498db
+}
+.blog .owl-carousel .owl-nav > div {    background: #3498db;}
+.susbscribe .form input[type="submit"] {    background: #3498db;}
+.color-box .fa-gear {background: #3498db;}
+.fa-arrow-up {background: #3498db}

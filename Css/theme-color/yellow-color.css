@@ -1,0 +1,34 @@
+.featrues .feature div {
+    border: 2px solid #f1c40f;
+}
+.about-design article button {
+    background: #f1c40f;
+    border: 1px solid #f1c40f;}
+
+.portfolio .list  li.selected,  .portfolio .list  li:hover {
+    color: #f1c40f;
+}
+.our-service .service-item div:first-child {color: #f1c40f}
+
+.our-service .service-item a {color: #f1c40f}
+
+.testimonials .say span {color: #f1c40f}
+
+.price-table .table-item.active h3 {color: #f1c40f !important}
+
+.price-table .table-item.active .head {  border-top: 5px solid #f1c40f;}
+
+.price-table .table-item .head p:before {
+    background: #f1c40f}
+
+.price-table .table-item .head p span {color: #f1c40f}
+
+.price-table .table-item .foot button {
+    border: 1px solid #f1c40f;
+    color: #f1c40f
+}
+
+.price-table .table-item .foot button.selected {background: #f1c40f}
+.blog .owl-carousel .owl-nav > div {    background: #f1c40f;}
+.susbscribe .form input[type="submit"] {    background: #f1c40f;}
+.color-box .fa-gear {background: #f1c40f;}

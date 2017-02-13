@@ -1,0 +1,15 @@
+/* Damion Fonts */
+@font-face {
+  font-family: 'Damion';
+  src: url('../Fonts/damion/Damion-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Relway Fonts */
+@font-face {
+  font-family: 'raleway';
+  src: url('../Fonts/raleway/Raleway-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,146 @@
+/* START SCREEN MEDIA  */
+
+@media (max-width: 767px) { /* Mobile & Tablet Rules*/
+    .fa-bars {display: block}
+    .menu {display: none}}
+
+@media (min-width: 768px){ /* Small Screen Rules*/
+    .container {width: 750px}
+}
+
+@media (min-width: 992px) { /* Medium Screen Rules*/
+    .container {width: 970px;}
+    
+    .about-design .about-img,
+    .about-design article {width: 47%}
+    
+    .featrues .feature,
+    .portfolio .work .work-item,
+    .our-service .service-item,
+    .price-table .table-item {width: 33.333333333%}
+    
+    .testimonials .say {width: 31.333333333%;}
+    .footer .list {width: 25%}
+    
+}
+
+@media (min-width: 1200px) { /* Large Screen Rules*/
+    .container {width: 1170px;}
+}
+
+/* END SCREEN MEDIA  */
+
+/* Start My Own Framework */
+
+.container {
+    margin: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: relative}
+
+ul { /* Global Reset */
+    list-style: none;
+    padding: 0;
+    margin: 0}
+
+li {list-style: none}
+
+a {
+    text-decoration: none;
+    color: inherit
+}
+
+h1 {
+    margin: 0;
+    font-size: 50px} /* Global Reset */
+
+/* Text Direction */
+.text-center {text-align: center}
+.text-left {text-align: left}
+.text-right {text-align: right}
+.text-justify {text-align: justify}
+
+.float-right {float: right}
+
+.float-left {float: left}
+/* Text Direction */
+
+/* Text Transform */
+.text-upper {text-transform: uppercase}
+/* Text Transform */
+
+.clearfix {clear: both} /* Fix */
+
+/* Table */
+.table {
+    height: 100%;
+    display: table
+}
+
+.table-row {
+    display: table-row;
+    height: 100%;
+}
+/* Table */
+
+/* Paragraph */
+.lead {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5
+}
+.p-title {
+    width: 700px;
+    margin: 0 auto 50px;
+    color: #95a5a6;
+    line-height: 1.6;
+}
+.cus-p {
+    color: #95a5a6;
+    line-height: 1.9;
+    margin: 0;
+    padding: 10px 0 5px;
+}
+/* Paragraph */
+
+/* Img Responsive */
+.img-responsive {
+    display: block;
+    max-width: 100%;
+}
+/* Img Responsive */
+
+/* Head Line */
+.cus-h2 {
+    color: #666;
+    margin: 0 0 15px;
+}
+
+.cus-h3 {color: #7f8c8d}
+
+.cus-h4 {
+    padding: 10px 0 ;
+    margin: 0;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 1.5
+}
+/* Head Line */
+
+/* Button */
+.btn {
+    color: white;
+    width: 200px;
+    padding: 13px 0;
+    margin: 20px 0;
+    font-family: "raleway";
+    border-radius: 3px;
+}
+/* Button */
+
+.cus-color {
+    color: #e67e22;
+    padding: 0;
+}
+
+/* End My Own Framework */

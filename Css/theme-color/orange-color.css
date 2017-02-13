@@ -1,0 +1,71 @@
+.header .navigation .menu ul li.active,
+.header .navigation .menu ul li:hover {
+    color: #e67e22;
+}
+
+.featrues .feature div {
+    border: 2px solid #e67e22;
+}
+
+.about-design article button {
+    background: #e67e22;
+    border: 1px solid #e67e22;
+}
+
+.portfolio .list li.selected,
+.portfolio .list li:hover {
+    color: #e67e22;
+}
+
+.our-service .service-item div:first-child {
+    color: #e67e22
+}
+
+.our-service .service-item a {
+    color: #e67e22
+}
+
+.testimonials .say span {
+    color: #e67e22
+}
+
+.price-table .table-item.active h3 {
+    color: #e67e22 !important
+}
+
+.price-table .table-item.active .head {
+    border-top: 5px solid #e67e22;
+}
+
+.price-table .table-item .head p:before {
+    background: #e67e22
+}
+
+.price-table .table-item .head p span {
+    color: #e67e22
+}
+
+.price-table .table-item .foot button {
+    border: 1px solid #e67e22;
+    color: #e67e22
+}
+
+.price-table .table-item .foot button.selected {
+    background: #e67e22
+}
+
+.blog .owl-carousel .owl-nav > div {
+    background: #e67e22;
+}
+
+.susbscribe .form input[type="submit"] {
+    background: #e67e22;
+}
+
+.color-box .fa-gear {
+    background: #e67e22;
+}
+
+.fa-arrow-up {
+    background: #e67e22
+}
